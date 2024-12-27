@@ -9,8 +9,6 @@ I'm **Joseph Mmadubuike Tobechukwu**, a passionate **MERN Stack Developer**, **E
 - 💬 Ask me about **web development**, **React**, **Node.js**, or how to turn **₦1,000 into ₦100 million** in sports betting! 😉
 - 📫 How to reach me: [Josephmmadubuike@yahoo.com](mailto:Josephmmadubuike@yahoo.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m on a mission to complete a **121-day challenge** in sports betting with a goal of turning ₦1,000 into ₦100 million. Follow my journey on Twitter!
-
 <!--
 **Jmmadubuike/jmmadubuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
