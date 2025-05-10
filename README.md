@@ -15,3 +15,59 @@
 + Diaspora Digital Media (CTO): Scaled solutions to 15+ countries
 + Kwechiri Tech Solutions LTD: ₦500M+ client productivity gains (2022-Present)
 + STEM Outreach: 78 school tech clubs | 5,200+ students trained
+
+🛠️ Tech Stack
+MERN
+Cloud
+AI/ML
+Mobile
+
+🌐 Impact Projects
+Eduace
+VoteGuard
+Kwechiri
+
+Current Focus:
+
+AI-powered educational platforms
+
+Blockchain-based transparency tools
+
+SME digital transformation solutions
+
+📢 Media & Speaking
+Channels TV
+TechCabal
+Business Day
+
+Recent Engagements:
+
+🎤 Keynote: "Digital Relevance Framework" (NDIC Summit 2023)
+
+📢 Panel: "AI in African Enterprises" (GITEX Africa 2024)
+
+💡 Masterclass: "Full-Stack Development" (UNN Tech Week)
+
+🌱 Mentorship
+Calendly
+- Career Accelerator Program (200+ graduates)
+- Founder Office Hours (Weekly)
+- Tech Leadership Webinars (Monthly)
+
+📈 GitHub Activity
+GitHub Stats
+Top Langs
+
+
+
+🤝 Partnerships
+- Corporate: MTN | Zenith Bank | NLNG
+- NGOs: UNICEF Tech4Good | Andela
+- Academic: UNN | BOWEN University
+
+📫 Connect
+Email
+WhatsApp
+Portfolio
+
+"Technology is best when it brings people together." - Matt Mullenweg
