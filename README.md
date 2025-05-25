@@ -1,7 +1,7 @@
 <h1 align="center">🌍 Mmadubuike Joseph Tobechukwu</h1>
 <h3 align="center">Tech Leader & Digital Relevance Architect</h3>
 <p align="center">
-  <b>Chief Technology Officer @ Diaspora Digital Media</b> <br/>
+  <b>Ex-Chief Technology Officer @ Diaspora Digital Media</b> <br/>
   <b>Founder @ Kwechiri Tech Ecosystem</b>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 Leadership & Innovation
 
-- 👨🏽‍💼 **CTO @ Diaspora Digital Media**  
+- 👨🏽‍💼 **Ex - CTO @ Diaspora Digital Media**  
   *Delivering global digital solutions at scale*
 
 - 🧱 **Founder @ Kwechiri Technologies & Tech Solutions LTD**  
